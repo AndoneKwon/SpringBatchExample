@@ -4,6 +4,6 @@ Spring Batch 어플리케이션이란 간단하게 생각했을때 일괄처리�
 
 그러한 Spring Batch의 예제이다.
 
-<br>
+<hr>
 참고자료
 https://jojoldu.tistory.com/325
